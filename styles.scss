@@ -549,3 +549,14 @@ body {
   }
 }
 
+.navbar {
+  position: relative;
+}
+
+.navbar-brand {
+  margin-right: 110px;
+}
+
+.navbar-nav.ml-auto {
+  margin-left: auto;
+}
